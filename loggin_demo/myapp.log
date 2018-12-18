@@ -1,0 +1,5 @@
+Mon, 17 Dec 2018 07:52:38 log.py[line:37] DEBUG this is debug
+Mon, 17 Dec 2018 07:52:38 log.py[line:38] INFO this is info
+Mon, 17 Dec 2018 07:52:38 log.py[line:39] WARNING this is waring
+Mon, 17 Dec 2018 07:52:38 log.py[line:40] ERROR this is debug error
+Mon, 17 Dec 2018 07:52:38 log.py[line:41] CRITICAL this is debug fatal
